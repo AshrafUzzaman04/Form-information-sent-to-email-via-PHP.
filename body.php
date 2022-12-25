@@ -34,7 +34,7 @@ if($messageSend ?? null){
 
 <div class="container px-3 px-md-0">
     <div class="box col-md-6 col-lg-5 col-xxl-4">
-        <section class="px-4 py-5  p-md-5 mx-auto">
+        <section class="p-5 mx-auto">
             <h2 class="mb-4">Write a message</h2>
             <form action="" method="POST">
                 <!-- name input -->

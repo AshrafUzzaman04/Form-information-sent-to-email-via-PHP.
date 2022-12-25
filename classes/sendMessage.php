@@ -47,7 +47,7 @@ if (isset($_POST['send123'])){
         $body = "";
 
         $body .= "Form: " . $corrName  . "\r\n";
-        $body .= "Email: " . $to . "\r\n";
+        $body .= "Email: " . $corrEmail . "\r\n";
         $body .= "Mobile: " . $corrNumber . "\r\n";
         $body .= "Message: " . $corrDescription . "\r\n";
 
